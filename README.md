@@ -18,7 +18,7 @@
 <img alt="C" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />&nbsp;&nbsp;&nbsp;
 <img alt="Markdown" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />&nbsp;&nbsp;&nbsp;
 <img alt="PyTorch" width="160px" src="https://www.edureka.co/blog/wp-content/uploads/2018/10/Pytorch_logo.png" />&nbsp;&nbsp;&nbsp;
-<img alt="Keras" width="45px" src="![image](https://user-images.githubusercontent.com/67365559/122974475-fcdcd300-d3af-11eb-89ba-807cf2c94b5c.png)
+<img alt="Keras" width="160px" src="![image](https://user-images.githubusercontent.com/67365559/122974475-fcdcd300-d3af-11eb-89ba-807cf2c94b5c.png)
 "/>&nbsp;&nbsp;&nbsp;
 <img alt="Git" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />&nbsp;&nbsp;&nbsp;
 </p>
